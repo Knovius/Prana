@@ -1,0 +1,5 @@
+name: Prana
+version: '1.0-SNAPSHOT'
+main: me.knovius.prana.Prana
+api-version: 1.19
+authors: [ Knovius ]

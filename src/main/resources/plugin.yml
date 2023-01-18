@@ -1,0 +1,5 @@
+name: Prana
+version: '${version}'
+main: me.knovius.prana.Prana
+api-version: 1.19
+authors: [ Knovius ]

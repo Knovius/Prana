@@ -1,0 +1,4 @@
+prana-bar: "&1&lPRANA &b&l%current_prana% &7/ &b&l%max_prana%"
+default-prana: 20 #Player spawns in with this amount of prana
+max-prana: 1000 #Limit to all players of prana
+prana-regenerated: 2 #Per second
